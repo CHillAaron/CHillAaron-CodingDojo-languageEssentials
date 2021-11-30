@@ -1,0 +1,13 @@
+D:\webDev\csharp\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.exe
+D:\webDev\csharp\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.deps.json
+D:\webDev\csharp\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.runtimeconfig.json
+D:\webDev\csharp\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.runtimeconfig.dev.json
+D:\webDev\csharp\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.dll
+D:\webDev\csharp\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.1\CollectionPractice.pdb
+D:\webDev\csharp\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.csprojAssemblyReference.cache
+D:\webDev\csharp\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.AssemblyInfoInputs.cache
+D:\webDev\csharp\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.AssemblyInfo.cs
+D:\webDev\csharp\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.dll
+D:\webDev\csharp\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.pdb
+D:\webDev\csharp\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.1\CollectionPractice.genruntimeconfig.cache

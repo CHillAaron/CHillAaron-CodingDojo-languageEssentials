@@ -1,0 +1,27 @@
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.exe
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.deps.json
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.json
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.dev.json
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.dll
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.pdb
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.dll
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.pdb
+C:\Users\Aaron\source\repos\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.genruntimeconfig.cache
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.exe
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.deps.json
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.json
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.dev.json
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.dll
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.pdb
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csproj.AssemblyReference.cache
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfoInputs.cache
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfo.cs
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.dll
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.pdb
+D:\webDev\csharp\fundamentals\language Essentials\Puzzle\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.genruntimeconfig.cache

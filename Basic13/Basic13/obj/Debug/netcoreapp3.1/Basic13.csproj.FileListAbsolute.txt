@@ -1,0 +1,27 @@
+D:\webDev\csharp\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.exe
+D:\webDev\csharp\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.deps.json
+D:\webDev\csharp\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.json
+D:\webDev\csharp\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.dev.json
+D:\webDev\csharp\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.dll
+D:\webDev\csharp\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.pdb
+D:\webDev\csharp\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.csprojAssemblyReference.cache
+D:\webDev\csharp\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfoInputs.cache
+D:\webDev\csharp\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfo.cs
+D:\webDev\csharp\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.dll
+D:\webDev\csharp\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.pdb
+D:\webDev\csharp\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.genruntimeconfig.cache
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.exe
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.deps.json
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.json
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.dev.json
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.dll
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\bin\Debug\netcoreapp3.1\Basic13.pdb
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.csproj.AssemblyReference.cache
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.GeneratedMSBuildEditorConfig.editorconfig
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfoInputs.cache
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfo.cs
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.csproj.CoreCompileInputs.cache
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.dll
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.pdb
+D:\webDev\csharp\fundamentals\language Essentials\Basic13\Basic13\obj\Debug\netcoreapp3.1\Basic13.genruntimeconfig.cache
